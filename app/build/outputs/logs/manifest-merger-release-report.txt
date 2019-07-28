@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.60.4] /home/hameed/.gradle/caches/transforms-2/files-2.1/eae8caceb3089de7a397d489336ff362/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /home/hameed/.gradle/caches/transforms-2/files-2.1/d7340325979d150cd9fb6d28b13219a8/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/hameed/.gradle/caches/transforms-2/files-2.1/3a846c101f83173a21bea4056f4e40da/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/d3fbd99bf677a27b3d1863aca6d544a2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/c85ae9f70cf05fc709dba2baa1c06e6f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/f3e39462a7e11096b31923ce7ab03cce/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/7f479d207809a10992e8ff888740cd21/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/45cc79cf184c7d02225b4334e6c8501d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/4e09ff1cd60389325c236f6cdcc08695/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/f876283a18a0f550889f1e773a7bb675/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/ffe91dff955f972ab7c28e69e0933184/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/75a439e7f23aaf42a749593f1622b554/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/9fe46ff1b847fe336b838d6c87515633/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/e011b4d855214e904c03a10eb0b08f24/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/d7b69f0328eebbcedc32a06246f41526/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/hameed/.gradle/caches/transforms-2/files-2.1/562c53fa3f587e44b18ebae56cef8cc0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/e40eceef449a3cc6659b90dcbe30c9c5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/30c2a1bdd1a0a38de001d67da1560608/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/b74d76f108497b41cb9a4184b05e4b70/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/789c6fb3c0b3cf2c644027ca57fb6ed6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/de464d15f447f96c105357b82c5b579f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/4839d60a1bd19476eb141310de438499/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/89a920fc29d19d2c85ba6138780911e0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/926f6f59138e2763681440f62327c331/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/hameed/.gradle/caches/transforms-2/files-2.1/f48c0a7abd5f680c090fa35607923a9c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/2e626206ae24b6c7f6aee6eefc92272a/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/984d120f89918738975c3086ef06ab9e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/aba9a3b5cd840996ad59c82695beb006/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/ff6a3f89ccfbcdb6fa6e94c3fd0cecfb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/f6abe0ca46dbf220da9d2b631bc47a63/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/4931480524f6fc694db39c525675a443/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/840ce6cc89e0e38897e17c7fd428f773/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/d43b3e7f84d19f4a84dfea14177699a0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/f8e8dc83150757ffa741a0978cd6d076/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/bd14dcffcd356649f8c39f8195b9b9cf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/9429ef69fe6cecc41ca4dfaa805cd00f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/f8d3f0fd3ea52d0a305dbe052b19a5f5/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.60.4] /home/hameed/.gradle/caches/transforms-2/files-2.1/eae8caceb3089de7a397d489336ff362/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.4] /home/hameed/.gradle/caches/transforms-2/files-2.1/eae8caceb3089de7a397d489336ff362/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/ffe91dff955f972ab7c28e69e0933184/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/ffe91dff955f972ab7c28e69e0933184/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /home/hameed/.gradle/caches/transforms-2/files-2.1/f48c0a7abd5f680c090fa35607923a9c/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/hameed/.gradle/caches/transforms-2/files-2.1/f48c0a7abd5f680c090fa35607923a9c/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/2e626206ae24b6c7f6aee6eefc92272a/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/2e626206ae24b6c7f6aee6eefc92272a/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/hameed/.gradle/caches/transforms-2/files-2.1/f48c0a7abd5f680c090fa35607923a9c/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.matlfsh.MainActivity
+ADDED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.60.4] /home/hameed/.gradle/caches/transforms-2/files-2.1/eae8caceb3089de7a397d489336ff362/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.4] /home/hameed/.gradle/caches/transforms-2/files-2.1/eae8caceb3089de7a397d489336ff362/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/hameed/.gradle/caches/transforms-2/files-2.1/d7340325979d150cd9fb6d28b13219a8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/hameed/.gradle/caches/transforms-2/files-2.1/d7340325979d150cd9fb6d28b13219a8/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/hameed/.gradle/caches/transforms-2/files-2.1/3a846c101f83173a21bea4056f4e40da/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/hameed/.gradle/caches/transforms-2/files-2.1/3a846c101f83173a21bea4056f4e40da/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/d3fbd99bf677a27b3d1863aca6d544a2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/d3fbd99bf677a27b3d1863aca6d544a2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/c85ae9f70cf05fc709dba2baa1c06e6f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/c85ae9f70cf05fc709dba2baa1c06e6f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/f3e39462a7e11096b31923ce7ab03cce/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/f3e39462a7e11096b31923ce7ab03cce/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/7f479d207809a10992e8ff888740cd21/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/7f479d207809a10992e8ff888740cd21/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/45cc79cf184c7d02225b4334e6c8501d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/45cc79cf184c7d02225b4334e6c8501d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/4e09ff1cd60389325c236f6cdcc08695/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/4e09ff1cd60389325c236f6cdcc08695/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/f876283a18a0f550889f1e773a7bb675/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/f876283a18a0f550889f1e773a7bb675/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/ffe91dff955f972ab7c28e69e0933184/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/ffe91dff955f972ab7c28e69e0933184/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/75a439e7f23aaf42a749593f1622b554/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/75a439e7f23aaf42a749593f1622b554/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/9fe46ff1b847fe336b838d6c87515633/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/9fe46ff1b847fe336b838d6c87515633/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/e011b4d855214e904c03a10eb0b08f24/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/e011b4d855214e904c03a10eb0b08f24/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/d7b69f0328eebbcedc32a06246f41526/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/d7b69f0328eebbcedc32a06246f41526/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/hameed/.gradle/caches/transforms-2/files-2.1/562c53fa3f587e44b18ebae56cef8cc0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/hameed/.gradle/caches/transforms-2/files-2.1/562c53fa3f587e44b18ebae56cef8cc0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/e40eceef449a3cc6659b90dcbe30c9c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/e40eceef449a3cc6659b90dcbe30c9c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/30c2a1bdd1a0a38de001d67da1560608/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/30c2a1bdd1a0a38de001d67da1560608/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/b74d76f108497b41cb9a4184b05e4b70/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/b74d76f108497b41cb9a4184b05e4b70/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/789c6fb3c0b3cf2c644027ca57fb6ed6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/789c6fb3c0b3cf2c644027ca57fb6ed6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/de464d15f447f96c105357b82c5b579f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/de464d15f447f96c105357b82c5b579f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/4839d60a1bd19476eb141310de438499/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/4839d60a1bd19476eb141310de438499/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/89a920fc29d19d2c85ba6138780911e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/89a920fc29d19d2c85ba6138780911e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/926f6f59138e2763681440f62327c331/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/926f6f59138e2763681440f62327c331/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/hameed/.gradle/caches/transforms-2/files-2.1/f48c0a7abd5f680c090fa35607923a9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/hameed/.gradle/caches/transforms-2/files-2.1/f48c0a7abd5f680c090fa35607923a9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/2e626206ae24b6c7f6aee6eefc92272a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/2e626206ae24b6c7f6aee6eefc92272a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/984d120f89918738975c3086ef06ab9e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/984d120f89918738975c3086ef06ab9e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/aba9a3b5cd840996ad59c82695beb006/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/aba9a3b5cd840996ad59c82695beb006/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/ff6a3f89ccfbcdb6fa6e94c3fd0cecfb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/ff6a3f89ccfbcdb6fa6e94c3fd0cecfb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/f6abe0ca46dbf220da9d2b631bc47a63/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/f6abe0ca46dbf220da9d2b631bc47a63/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/4931480524f6fc694db39c525675a443/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/4931480524f6fc694db39c525675a443/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/840ce6cc89e0e38897e17c7fd428f773/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/840ce6cc89e0e38897e17c7fd428f773/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/d43b3e7f84d19f4a84dfea14177699a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/d43b3e7f84d19f4a84dfea14177699a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/f8e8dc83150757ffa741a0978cd6d076/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/f8e8dc83150757ffa741a0978cd6d076/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/bd14dcffcd356649f8c39f8195b9b9cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/bd14dcffcd356649f8c39f8195b9b9cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/9429ef69fe6cecc41ca4dfaa805cd00f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/9429ef69fe6cecc41ca4dfaa805cd00f/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/f8d3f0fd3ea52d0a305dbe052b19a5f5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/hameed/.gradle/caches/transforms-2/files-2.1/f8d3f0fd3ea52d0a305dbe052b19a5f5/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hameed/Documents/Projects/matlfsh/android/app/src/main/AndroidManifest.xml
